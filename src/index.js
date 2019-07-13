@@ -15,7 +15,7 @@ const typeDefs = `
 const resolvers = {
     Query: {
         title() {
-            return 'Hat'
+            return 'Hats'
         },
         price() {
             return 3.99
